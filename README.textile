@@ -1,4 +1,5 @@
 h1. Using ZeeShell-Config
+
 - Assume downloaded to $HOME/.zsh (to be fixed. not really a problem for me right now)
 - cd .zsh
 - source install.sh
