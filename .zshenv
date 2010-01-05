@@ -1,6 +1,6 @@
 #local settings, like fpath, path
 #typically, you will want to change to match your system
-fpath=($fpath $HOME/.zsh.d/func)
+fpath=($fpath $HOME/.zsh/func)
 typeset -U fpath
 
 #path action
