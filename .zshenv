@@ -6,6 +6,7 @@ typeset -U fpath
 #path action
 PATH=$PATH":${HOME}/.gem/ruby/1.8/bin"
 PATH=$PATH":/usr/local/git/libexec/git-core"
+PATH=$PATH":/Users/mitch/Sites/cake/cake/console"
 
 #histfile here, so its off remote by default.
 HISTSIZE=1000
